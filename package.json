@@ -36,7 +36,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://indiel.github.io/star-db",
+  "homepage": ".",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }

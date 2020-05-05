@@ -10,4 +10,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `npm install`
 ### `npm start`
 
-## [Deploy](https://indiel.github.io/Star-DB/)
+<!-- ## [Deploy](https://indiel.github.io/Star-DB/) -->
